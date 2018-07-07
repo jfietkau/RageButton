@@ -2,7 +2,7 @@ If you ever had a moment of frustration trying to read StackOverflow, thrown you
 
 Simply put, it replaces all text on the currently displayed page with incoherent screaming.
 
-** Please note:** This add-on may modify the content of text input fields upon activation. If you use it on a highly interactive website (such as your webmail or a wiki page you're currently editing), there is a possibility of data loss.
+**Please note:** This add-on may modify the content of text input fields upon activation. If you use it on a highly interactive website (such as your webmail or a wiki page you're currently editing), there is a possibility of data loss.
 
 (C) 2018 Julian Fietkau, GPLv3-licensed.
 
